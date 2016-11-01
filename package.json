@@ -2,5 +2,5 @@
   "name": "silverstripe-tiles",
   "version": "0.0.0",
   "description": "Tiles for SilverStripe",
-  "author": "David Malone - david@souldesign.net.nz"
+  "authors": "David Malone, Peter Thaleikis"
 }
