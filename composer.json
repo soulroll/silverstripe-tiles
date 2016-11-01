@@ -10,7 +10,11 @@
       "name": "David Malone",
       "homepage": "http://www.soulwebdesign.nz",
       "role": "Front-end developer"
-    }
+    },
+    {
+      "name": "Peter Thaleikis",
+      "role": "Software engineer"
+    }    
   ],
   "require": {
     "composer/installers": "~1.0",
