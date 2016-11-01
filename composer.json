@@ -1,0 +1,28 @@
+{
+  "name": "soulrolll/silverstripe-tiles",
+  "description": "Bootstrap columns and rows as data objects",
+  "license": "MIT License",
+  "type": "silverstripe-module",
+  "homepage": "http://www.soulwebdesign.nz",
+  "keywords": ["Bootstrap Columns", "Module", "SilverStripe", "Layout"],
+  "authors": [
+    {
+      "name": "David Malone",
+      "homepage": "http://www.soulwebdesign.nz",
+      "role": "Front-end developer"
+    }
+  ],
+  "require": {
+    "composer/installers": "~1.0",
+    "php": ">=5.5.9,<7.0.0",
+    "undefinedoffset/sortablegridfield": "^0.6.2"
+  },
+  "config": {
+    "process-timeout": 600
+  },
+  "extra": {
+    "installer-name": "silverstripe-tiles"
+  },
+  "prefer-stable": true,
+  "minimum-stability": "dev"
+}
